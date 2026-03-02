@@ -1,10 +1,18 @@
+@font-face {
+  font-family: W95FA;
+  src: url(W95FA.otf);
+  /*font-weight: default;*/
+}
+
 body {
   background-color: #320016;
 }
 h1 {
   text-align: center;
   color: #FFFFFF;
+  font-family: W95FA
 }
 p {
   color: #FFFFFF;
+  font-family: W95FA
 }
