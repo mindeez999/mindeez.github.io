@@ -4,11 +4,15 @@
 }
 
 body {
-  background-color: #320016;
+  background-color: ##1b000b;
 }
 h1 {
   padding-top: 16px;
   text-align: center;
+  color: #FFFFFF;
+  font-family: W95FA
+}
+h2 {
   color: #FFFFFF;
   font-family: W95FA
 }
