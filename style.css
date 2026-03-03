@@ -20,7 +20,11 @@ p.mars80 {
   margin-right: 80%;
 }
 
+a img {
+  display: block;
+}
 
+/*linking it ohh im linking it*/
 a:link {
     color: #69aaee;
 }
