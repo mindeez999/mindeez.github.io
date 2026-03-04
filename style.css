@@ -10,15 +10,20 @@ html {
 	background-color: #1b000b;
 }
 
+.center {
+    text-align: center;
+}
+
+
 h1 {
     text-align: center;
 	padding: 8px;
 }
 
-
 p.mars80 {
   margin-right: 80%;
 }
+
 
 a img {
   display: block;
